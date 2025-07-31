@@ -17,6 +17,6 @@ Clone the repo and open the game in your browser:
 
 ```bash
 git clone https://github.com/no990913/chess_browser.git
-cd your-repo-name
+cd chess_browser
 npm install
 npm run dev
