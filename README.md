@@ -16,7 +16,7 @@ A browser-based chess game built for casual play, practice, or learning. Support
 Clone the repo and open the game in your browser:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/no990913/chess_browser.git
 cd your-repo-name
 npm install
 npm run dev
