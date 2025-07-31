@@ -1,0 +1,32 @@
+body {
+    background: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+canvas {
+    background: #fff;
+    border: 3px solid #444;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+    touch-action: none;
+}
+
+@media (max-width: 600px) {
+    #chessboard {
+        width: 96vw !important;
+        height: 96vw !important;
+    }
+}
